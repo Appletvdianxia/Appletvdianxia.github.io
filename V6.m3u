@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV-1综合高清
+http://hdtv.lzu6.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 ,CCTV-2财经高清
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv2hd.m3u8
+#EXTINF:-1 ,CCTV-3综艺高清
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv3.m3u8
+#EXTINF:-1 ,CCTV-4中文国际高清
+http://hdtv.lzu6.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1 ,CCTV-5体育高清
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv5hd.m3u8
+#EXTINF:-1 ,CCTV-5+体育高清
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv5p.m3u8
+#EXTINF:-1 ,CCTV-6电影高清
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv6hd.m3u8
+#EXTINF:-1 ,CCTV-7国防军事高清
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv7hd.m3u8
+#EXTINF:-1 ,CCTV-8电视剧高清
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv8.m3u8
+#EXTINF:-1 ,CCTV-9纪录高清
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv9hd.m3u8
+#EXTINF:-1 ,CGTN-纪录高清
+http://hdtv.lzu6.edu.cn/hls/hls67a44.m3u8
+#EXTINF:-1 ,CGTN高清
+http://hdtv.lzu6.edu.cn/hls/hls185a571.m3u8
+#EXTINF:-1 ,CCTV-10科教高清
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv10hd.m3u8
+#EXTINF:-1 ,CCTV-11戏曲高清
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv11hd.m3u8
+#EXTINF:-1 ,CCTV-12社会与法高清
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv12hd.m3u8
+#EXTINF:-1 ,CCTV-13新闻高清
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv13.m3u8
+#EXTINF:-1 ,CCTV-14少儿高清
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv14hd.m3u8
+#EXTINF:-1 ,CCTV-15音乐高清
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv15hd.m3u8
+#EXTINF:-1 ,CCTV-17农业农村高清
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv17.m3u8
+#EXTINF:-1 ,CCTV世界地理高清
+http://hdtv.lzu6.edu.cn/hls/hls184a515.m3u8
+#EXTINF:-1 ,CCTV第一剧场高清
+http://hdtv.lzu6.edu.cn/hls/hls184a512.m3u8
+#EXTINF:-1 ,CCTV风云足球高清
+http://hdtv.lzu6.edu.cn/hls/hls184a510.m3u8
+#EXTINF:-1 ,CCTV风云剧场高清
+http://hdtv.lzu6.edu.cn/hls/hls184a516.m3u8
+#EXTINF:-1 ,CCTV风云音乐高清
+http://hdtv.lzu6.edu.cn/hls/hls184a519.m3u8
+#EXTINF:-1 ,CCTV怀旧剧场高清
+http://hdtv.lzu6.edu.cn/hls/hls184a518.m3u8
+#EXTINF:-1 ,CCTV兵器科技高清
+http://hdtv.lzu6.edu.cn/hls/hls184a573.m3u8
+#EXTINF:-1 ,CCTV女性时尚高清
+http://hdtv.lzu6.edu.cn/hls/hls184a522.m3u8
+#EXTINF:-1 ,CCTV电视指南高清
+http://hdtv.lzu6.edu.cn/hls/hls186a88.m3u8
