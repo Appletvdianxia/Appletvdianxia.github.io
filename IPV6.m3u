@@ -10,7 +10,7 @@ http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls74a4.m3u8
 #EXTINF:-1tvg-id="5"tvg-name="CCTV5"tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png"group-title="央视",CCTV-5体育-高清
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls73a5.m3u8
 #EXTINF:-1 ,CCTV-5+体育高清
-http://pullhls3948069e.live.126.net/live/7a1b5bbb762218d4bb090f2f522c448c/playlist.m3u8
+http://pullhls3948069e.live.126.net/live/0851e9bf0a981357d30ad320124cb659/playlist.m3u8
 #EXTINF:-1tvg-id="7"tvg-name="CCTV6"tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"group-title="央视",CCTV-6电影-高清
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/jlu_cctv6hd.m3u8
 #EXTINF:-1tvg-id="8"tvg-name="CCTV7"tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png"group-title="央视",CCTV-7国防军事-高清
