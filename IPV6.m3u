@@ -2,10 +2,22 @@
 #EXTINF:-1 ,CCTV4k
 http://live.tvfix.org/hls/cctv4k.m3u8
 #EXTINF:-1 ,CCTV-1综合高清
-http://tlivectfree-cdn.ysp.cctv.cn/FD3E5167767680219E1553FBC802D9FECB8F44444048B1DBB66827DEBA5F9385F3C00436DCA91DA1FC08FB32B570B9500B30F14FA6E615793095D3BFC39CB29A5D20700079D5A8F25A1FC69143178CD15D8BFF15AAE65BDCDA802D89EC62F52645187598F96C7718DD73901B45B7343C55DCEEB2B8457432234694D3C55CF4D41C303C72F7135A2A936EADDFC1C4B737/2000210103.m3u8?from=player&svrtime=1652014256&pid=600001800&cdn=5505
+http://live.tvfix.org/hls/cctv1hd.m3u8
 #EXTINF:-1 ,CCTV-2财经高清
-http://live.tvfix.org/hls/cctv4k.m3u8
+http://live.tvfix.org/hls/cctv2hd.m3u8
 #EXTINF:-1 ,CCTV-3综艺高清
-http://live.tvfix.org/hls/cctv4k.m3u8
+http://live.tvfix.org/hls/cctv3hd.m3u8
 #EXTINF:-1 ,CCTV-4中文国际高清
-http://live.tvfix.org/hls/cctv4k.m3u8
+http://live.tvfix.org/hls/cctv4hd.m3u8
+#EXTINF:-1 ,CCTV-5体育高清
+http://live.tvfix.org/hls/cctv5hd.m3u8
+#EXTINF:-1 ,CCTV-5+体育高清
+http://live.tvfix.org/hls/cctv5phd.m3u8
+#EXTINF:-1 ,CCTV-6电影高清
+http://live.tvfix.org/hls/cctv6hd.m3u8
+#EXTINF:-1 ,CCTV-7国防军事高清
+http://live.tvfix.org/hls/cctv7hd.m3u8
+#EXTINF:-1 ,CCTV-8电视剧高清
+http://live.tvfix.org/hls/cctv8hd.m3u8
+#EXTINF:-1 ,CCTV-9纪录高清
+http://live.tvfix.org/hls/cctv9hd.m3u8
