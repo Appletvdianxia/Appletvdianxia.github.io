@@ -21,3 +21,29 @@ http://live.tvfix.org/hls/cctv7hd.m3u8
 http://live.tvfix.org/hls/cctv8hd.m3u8
 #EXTINF:-1 ,CCTV-9纪录高清
 http://live.tvfix.org/hls/cctv9hd.m3u8
+#EXTINF:-1 ,CGTN-纪录高清
+http://[2001:250:4801::430:89]/hls/hls67a43.m3u8
+#EXTINF:-1 ,CGTN高清
+http://[2001:250:4801::430:89]/hls/hls185a571.m3u8
+#EXTINF:-1 ,CCTV-10科教高清
+http://live.tvfix.org/hls/cctv10hd.m3u8
+#EXTINF:-1 ,CCTV-11戏曲高清
+http://live.tvfix.org/hls/cctv11hd.m3u8
+#EXTINF:-1 ,CCTV-12社会与法高清
+http://live.tvfix.org/hls/cctv12hd.m3u8
+#EXTINF:-1 ,CCTV-13新闻高清
+http://live.tvfix.org/hls/cctv13hd.m3u8
+#EXTINF:-1 ,CCTV-14少儿高清
+http://live.tvfix.org/hls/cctv14hd.m3u8
+#EXTINF:-1 ,CCTV-15音乐高清
+http://live.tvfix.org/hls/cctv15hd.m3u8
+#EXTINF:-1 ,CCTV-16
+http://live.tvfix.org/hls/cctv16hd.m3u8
+#EXTINF:-1 ,CCTV-17农业农村高清
+http://live.tvfix.org/hls/cctv17hd.m3u8
+#EXTINF:-1 ,CCTV世界地理高清
+http://[2001:250:4801::430:89]/hls/hls184a515.m3u8
+#EXTINF:-1 ,CCTV第一剧场高清
+http://[2001:250:4801::430:89]/hls/hls184a512.m3u8
+#EXTINF:-1 ,CCTV风云足球高清
+http://live.tvfix.org/hls/cctvfyzqhd.m3u8
