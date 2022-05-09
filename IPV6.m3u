@@ -158,7 +158,7 @@ http://live.tvfix.org/hls/natlgeo.m3u8
 #EXTINF:-1 ,纪录频道/ 瞬间看地球
 http://live.tvfix.org/hls/earth.m3u8
 #EXTINF:-1 ,测试频道/ tvN
-http://live.tvfix.org/hls/tvn_v.m3u8
+http://live.tvfix.org/hls/tvn_a1.m3u8
 #EXTINF:-1 ,测试频道/ AXN
 http://live.tvfix.org/hls/axn.m3u8
 #EXTINF:-1 ,测试频道/ Channel V
