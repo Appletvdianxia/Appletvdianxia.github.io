@@ -1,0 +1,771 @@
+#EXTM3U
+#EXTINF:-1 group-title="未分组",鳳凰資訊HD
+http://107.151.203.111:2209/135/hk.php?id=fhzx
+#EXTINF:-1 group-title="未分组",鳳凰資訊
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 group-title="未分组",鳳凰中文HD
+http://107.151.203.111:2209/135/hk.php?id=fhzw
+#EXTINF:-1 group-title="未分组",鳳凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 group-title="未分组",凤凰资讯
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="未分组",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+#EXTINF:-1 group-title="未分组",凤凰中文
+http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="未分组",凤凰中文
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="未分组",凤凰中文
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="未分组",凤凰电影台
+http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd
+#EXTINF:-1 group-title="未分组",凤凰电影
+http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+#EXTINF:-1 group-title="未分组",翡翠台
+http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
+#EXTINF:-1 group-title="未分组",翡翠台
+http://radius.8866.org:800/hls/80/index.m3u8
+#EXTINF:-1 group-title="未分组",翡翠台
+https://epg.pw/stream/d042107a04cb78dc7408e20302fe0935ddaa08d8af05c177a35a047b4b925936.m3u8
+#EXTINF:-1 group-title="未分组",翡翠台
+https://epg.pw/stream/df26fdd1bfc2aa3dddb3ab3a0c26ac4a32c4e0d497588fa11e93ef6956e9ed5b.ctv
+#EXTINF:-1 group-title="未分组",翡翠台
+http://shazui.8866.org:800/hls/80/index.m3u8
+#EXTINF:-1 group-title="未分组",翡翠台
+http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 group-title="未分组",翡翠台
+http://r.jdshipin.com/qClQf
+#EXTINF:-1 group-title="未分组",翡翠台
+http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 group-title="未分组",翡翠台
+http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8
+#EXTINF:-1 group-title="未分组",翡翠台
+http://2022.stream-link.org/playlist/tvb_jade
+#EXTINF:-1 group-title="未分组",華麗(翡翠)台
+http://2022.stream-link.org/playlist/astro_jade
+#EXTINF:-1 group-title="未分组",TVB Jade (翡翠台)
+https://live.astradamy.com/tvbfc/index.m3u8
+#EXTINF:-1 group-title="未分组",TVB翡翠台
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",TVB翡翠台
+http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+#EXTINF:-1 group-title="未分组",豬哥會社
+http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",中天綜合台
+http://2022.stream-link.org/playlist/cti_zh
+#EXTINF:-1 group-title="未分组",中天綜合
+http://www.336699.live:1935/blocksix/4gtv-live033.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",中天綜合
+https://epg.pw/stream/9ffc906d37cf095d0fb596c3cba6c6253e8e445f4ccd24563c7a2e9e99c39f39.m3u8
+#EXTINF:-1 group-title="未分组",中天綜合
+https://epg.pw/stream/4c3c400280fb3d1f5b27322fe4827f5ba43f09963e114b0973bea7b5a85f7d73.ctv
+#EXTINF:-1 group-title="未分组",中天综合台
+http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.flv
+#EXTINF:-1 group-title="未分组",中天综合台
+http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
+#EXTINF:-1 group-title="未分组",中天新聞
+http://tv.redrainl.site:9500/live.m3u8?c=3
+#EXTINF:-1 group-title="未分组",中天新聞
+http://2022.stream-link.org/playlist/cti_news
+#EXTINF:-1 group-title="未分组",中天新闻
+https://epg.pw/stream/39d1bda5333c7c710aecd9df8bae36f84694014cbf55ab3bcd7b7e45f46fc0e6.m3u8
+#EXTINF:-1 group-title="未分组",中天新闻
+http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",中天新闻
+http://158.101.151.82:9000/jmsytb.m3u8?c=05
+#EXTINF:-1 group-title="未分组",中天新闻
+http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/.m3u8
+#EXTINF:-1 group-title="未分组",中天新闻
+http://tv.redrainl.site:9500/live.m3u8?c=03
+#EXTINF:-1 group-title="未分组",中天新闻
+http://158.101.151.82:9000/jmsytb.m3u8?c=5
+#EXTINF:-1 group-title="未分组",中天新闻
+http://2023.stream-link.org/playlist/cti_news
+#EXTINF:-1 group-title="未分组",中天美食旅遊
+http://www.336699.live:1935/blocksix/4gtv-live123.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",中視新聞台
+http://158.101.151.82:9000/jmsytb.m3u8?c=08
+#EXTINF:-1 group-title="未分组",中視新聞
+http://tv.redrainl.site:9500/live.m3u8?c=2
+#EXTINF:-1 group-title="未分组",中視新聞
+http://2022.stream-link.org/playlist/ctv_news
+#EXTINF:-1 group-title="未分组",中視經典
+http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",中視菁采
+http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",中視 HD
+http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/.m3u8
+#EXTINF:-1 group-title="未分组",中視 HD
+http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",中视新闻
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1 group-title="未分组",中视新闻
+http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",中视新闻
+http://158.101.151.82:9000/jmsytb.m3u8?c=8
+#EXTINF:-1 group-title="未分组",中视新闻
+http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/.m3u8
+#EXTINF:-1 group-title="未分组",中视新闻
+http://tv.redrainl.site:9500/live.m3u8?c=02
+#EXTINF:-1 group-title="未分组",中视菁采
+http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/.m3u8
+#EXTINF:-1 group-title="未分组",中视经典台
+http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/.m3u8
+#EXTINF:-1 group-title="未分组",智林體育台
+http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",长城精品
+http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",原住民族電視台
+http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
+#EXTINF:-1 group-title="未分组",原住民頻道
+https://epg.pw/stream/3d0b93fe5f3ae06d96d0d4bc7931ec323ee5ef2721d880629f50a6672c2c7bb3.m3u8
+#EXTINF:-1 group-title="未分组",原住民電視台
+http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+#EXTINF:-1 group-title="未分组",原住民电视台
+https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F
+#EXTINF:-1 group-title="未分组",有線直播新聞台
+https://epg.pw/stream/38825c579f3d95e54531e6d373b08e463e6aa43e48bd69fbbc4897470491821c.m3u8
+#EXTINF:-1 group-title="未分组",有線直播新聞台
+http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
+#EXTINF:-1 group-title="未分组",有線新聞
+http://2022.stream-link.org/playlist/cable_news
+#EXTINF:-1 group-title="未分组",有線財經
+http://2022.stream-link.org/playlist/cable_finance
+#EXTINF:-1 group-title="未分组",有线新闻台
+http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 group-title="未分组",有线新闻台
+http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+#EXTINF:-1 group-title="未分组",有线新闻台
+http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 group-title="未分组",有线新闻台
+http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 group-title="未分组",有线新闻台
+https://api.leonardpark.dev/live/icable/109
+#EXTINF:-1 group-title="未分组",有线财经资讯台
+http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8
+#EXTINF:-1 group-title="未分组",有限新闻台
+http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
+#EXTINF:-1 group-title="未分组",优视频道
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",影迷数位电影台
+http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",影迷紀實
+http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",耀才財經
+http://107.151.203.111:2209/135/hk.php?id=bs
+#EXTINF:-1 group-title="未分组",耀才财经台
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 group-title="未分组",耀才财经
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+#EXTINF:-1 group-title="未分组",耀才财经
+https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 group-title="未分组",耀才财经
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
+#EXTINF:-1 group-title="未分组",幸福空間居家
+http://www.336699.live:1935/blocksix/4gtv-live206.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",星空卫视
+http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8
+#EXTINF:-1 group-title="未分组",星空卫视
+http://218.202.220.2:5000/nn_live.ts?id=STARTV
+#EXTINF:-1 group-title="未分组",新唐人亞太
+http://www.336699.live:1935/blocksix/4gtv-live050.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",新视觉HD
+http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分组",香港有線財經
+http://61.10.2.140:80/live_freedirect/freehd208_h.live/chunklist_w293990864.m3u8
+#EXTINF:-1 group-title="未分组",香港卫视
+https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
+#EXTINF:-1 group-title="未分组",香港開電視
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 group-title="未分组",香港開電視
+http://2022.stream-link.org/playlist/hoy
+#EXTINF:-1 group-title="未分组",香港国际财经台
+http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
+#EXTINF:-1 group-title="未分组",香港佛陀
+http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",香港佛陀
+https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 group-title="未分组",無綫新聞台
+http://2022.stream-link.org/playlist/tvb_news
+#EXTINF:-1 group-title="未分组",無綫財經資訊台
+http://2022.stream-link.org/playlist/tvb_finance
+#EXTINF:-1 group-title="未分组",无线新闻台
+http://radius.8866.org:800/hls/82/index.m3u8
+#EXTINF:-1 group-title="未分组",无线新闻台
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+#EXTINF:-1 group-title="未分组",无线新闻
+http://shazui.8866.org:800/hls/82/index.m3u8
+#EXTINF:-1 group-title="未分组",无线财经
+http://radius.8866.org:800/hls/83/index.m3u8
+#EXTINF:-1 group-title="未分组",衛視中文
+https://epg.pw/stream/e90bbc4d59eaed31098c2ee4ecbaee0c686b15379e52c5bc09b56fcb4386e12a.m3u8
+#EXTINF:-1 group-title="未分组",唯心台
+http://124.238.99.44:808/hls/363/index.m3u8
+#EXTINF:-1 group-title="未分组",唯心
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="未分组",唯心
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+#EXTINF:-1 group-title="未分组",天映經典
+https://epg.pw/stream/c144b6e78dae226aaf5d3ea400c87707189b5f1ab750e1d1ca5b7e00706dd47d.m3u8
+#EXTINF:-1 group-title="未分组",天映經典
+https://epg.pw/stream/87617e79441d46b5917a3bdca13259e4de2d9e11f828a88f1cb1c80d377f76f4.m3u8
+#EXTINF:-1 group-title="未分组",台灣綜藝
+http://www.336699.live:1935/blocksix/4gtv-live006.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",台灣戲劇
+http://www.336699.live:1935/blocksix/4gtv-live005.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",台視新聞
+http://tv.redrainl.site:9500/live.m3u8?c=11
+#EXTINF:-1 group-title="未分组",台視新聞
+http://2022.stream-link.org/playlist/ttv_news
+#EXTINF:-1 group-title="未分组",台視
+http://2022.stream-link.org/playlist/ttv
+#EXTINF:-1 group-title="未分组",台视新闻台
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="未分组",台视新闻台
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 group-title="未分组",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",台视新闻
+http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1 group-title="未分组",台视新闻
+http://158.101.151.82:9000/jmsytb.m3u8?c=07
+#EXTINF:-1 group-title="未分组",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="未分组",台视新闻
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",世新綜合
+http://61.58.60.230:9319/live/49.m3u8
+#EXTINF:-1 group-title="未分组",時尚運動
+http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",时尚台FTV
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",神奇寶貝
+http://epg.112114.xyz/douyu/9765742
+#EXTINF:-1 group-title="未分组",三立綜合台
+http://2022.stream-link.org/playlist/set_zh
+#EXTINF:-1 group-title="未分组",三立綜合
+http://www.336699.live:1935/blocksix/4gtv-live207.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",三立新聞+
+http://2022.stream-link.org/playlist/set_news+
+#EXTINF:-1 group-title="未分组",三立新聞
+http://www.336699.live:1935/blocksix/4gtv-live089.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",三立新聞
+http://2022.stream-link.org/playlist/set_news
+#EXTINF:-1 group-title="未分组",三立新闻
+https://epg.pw/stream/8d05ff97abc9143b720359d0afacb12118dd5cbc9a9ff7dfe21fb158921435be.m3u8
+#EXTINF:-1 group-title="未分组",三立新闻
+http://158.101.151.82:9000/jmsytb.m3u8?c=9
+#EXTINF:-1 group-title="未分组",三立財經新聞
+http://2022.stream-link.org/playlist/set_inews
+#EXTINF:-1 group-title="未分组",三立inews新闻
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 group-title="未分组",三立iNEWS
+http://tv.redrainl.site:9500/live.m3u8?c=51
+#EXTINF:-1 group-title="未分组",人間衛視
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+#EXTINF:-1 group-title="未分组",人間衛視
+http://www.336699.live:1935/blocksix/4gtv-live008.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",人间卫视
+https://epg.pw/stream/ee3cf4b20be88fec840e9a9e2c888795ba3be5fa75657ac81cb4859a0e1a9643.m3u8
+#EXTINF:-1 group-title="未分组",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 group-title="未分组",全球財經
+http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",全名最大黨
+http://www.336699.live:1935/blocksix/4gtv-live076.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",尼克兒童1
+http://www.336699.live:1935/blocksix/4gtv-live105.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",尼克兒童
+http://www.336699.live:1935/blocksix/4gtv-live032.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",明珠台
+http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
+#EXTINF:-1 group-title="未分组",明珠台
+https://epg.pw/stream/0b5f91ff385c60196f333ae561f033d3c251db3071380996e93abdb509b907c1.ctv
+#EXTINF:-1 group-title="未分组",明珠台
+http://radius.8866.org:800/hls/84/index.m3u8
+#EXTINF:-1 group-title="未分组",明珠台
+http://shazui.8866.org:800/hls/84/index.m3u8
+#EXTINF:-1 group-title="未分组",明珠台
+http://r.jdshipin.com/ZQ4kN
+#EXTINF:-1 group-title="未分组",明珠台
+http://baidu.douyincdn.freetvtv.com/peal/m2.m3u8
+#EXTINF:-1 group-title="未分组",民視綜藝台
+http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",民視新聞台
+http://tv.redrainl.site:9500/live.m3u8?c=01
+#EXTINF:-1 group-title="未分组",民視新聞
+http://tv.redrainl.site:9500/live.m3u8?c=1
+#EXTINF:-1 group-title="未分组",民視新聞
+http://2022.stream-link.org/playlist/ftv_news
+#EXTINF:-1 group-title="未分组",民視台灣台
+http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/.m3u8
+#EXTINF:-1 group-title="未分组",民視台灣台
+http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",民視第一台
+http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",民視
+https://epg.pw/stream/87277dbeffd4d45c91531d1fa21b5133caff51c8e2ef795eac23e1d1e7a43687.m3u8
+#EXTINF:-1 group-title="未分组",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="未分组",民视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",民视新闻
+http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+#EXTINF:-1 group-title="未分组",民视新闻
+http://www.336699.live:1935/blockfour/litv-ftv13.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",民视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="未分组",民视
+http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",面包台
+https://epg.pw/stream/1d1536dfcf53be38e53fb55ce4fefea99ee33742bae6e294975be688fc5b5358.m3u8
+#EXTINF:-1 group-title="未分组",美國之音
+http://www.336699.live:1935/blockfour/litv-ftv03.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",美国中文电视
+https://jpts.sinovision.net/livestream.m3u8
+#EXTINF:-1 group-title="未分组",龍華日韓
+http://www.336699.live:1935/blockfour/litv-longturn11.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",龍華電影
+https://epg.pw/stream/48e65c7ee2e32cd94bd6ef41b978802804253539e7a5d4bc156ed6bd27543d87.m3u8
+#EXTINF:-1 group-title="未分组",龍華電影
+https://epg.pw/stream/e4f21acda4343622520728335bad935a0f525b0afb005d52e8cb4f96c1c0f423.m3u8
+#EXTINF:-1 group-title="未分组",龙祥时代
+http://zb.688768.xyz/jiudian/jddb.php?member=liubwdefd34&playurl=http://120.84.96.247:808/hls/35/index.m3u8
+#EXTINF:-1 group-title="未分组",龙祥电影
+http://gxfrg007.8800.org:8282/tsfile/live/1048_1.m3u8
+#EXTINF:-1 group-title="未分组",龙华电影
+http://www.336699.live:1935/blockfour/litv-longturn03.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",龙华电影
+http://www.336699.live:1935/blockfour/litv-longturn03.stream/chunklist_w1641180016.m3u8
+#EXTINF:-1 group-title="未分组",莲花电影台
+http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.flv
+#EXTINF:-1 group-title="未分组",莲花电影台
+http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.m3u8
+#EXTINF:-1 group-title="未分组",科教
+http://www.336699.live:1935/blocksix/4gtv-live109.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",鏡新聞Mnews
+http://tv.redrainl.site:9500/live.m3u8?c=28
+#EXTINF:-1 group-title="未分组",靖洋戲劇
+http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",靖洋戏剧
+http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/.m3u8
+#EXTINF:-1 group-title="未分组",靖洋卡通
+http://www.336699.live:1935/blockfour/4gtv-4gtv057.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",靖天育樂
+http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",靖天育乐
+http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/.m3u8
+#EXTINF:-1 group-title="未分组",靖天映畫
+http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",靖天戲劇
+http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",靖天日本
+http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",靖天卡通
+http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",靖天歡樂
+http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",靖天欢乐台
+https://epg.pw/stream/097a6a0c5d168e229b7bdc1c975a34798798dba18426616829e00562dd5dfb13.m3u8
+#EXTINF:-1 group-title="未分组",靖天國際
+http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",靖天国际
+http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/.m3u8
+#EXTINF:-1 group-title="未分组",靖天电影
+http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",靖天电影
+http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/.m3u8
+#EXTINF:-1 group-title="未分组",精選動漫
+http://www.336699.live:1935/blocksix/4gtv-live024.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",經典卡通
+http://www.336699.live:1935/blocksix/4gtv-live022.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",經典電影
+http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",金馬電影
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="未分组",金光布袋戲
+http://www.336699.live:1935/blocksix/4gtv-live144.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",寰宇新聞
+https://epg.pw/stream/56fcd258e38553e22ea31b82f3a6919c0c843f659364d24bdd5cbf04df0b4f28.m3u8
+#EXTINF:-1 group-title="未分组",寰宇新聞
+http://www.336699.live:1935/blockfour/litv-longturn14.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",寰宇新聞
+http://2022.stream-link.org/playlist/global_news
+#EXTINF:-1 group-title="未分组",寰宇新闻台
+http://158.101.151.82:9000/jmsytb.m3u8?c=14
+#EXTINF:-1 group-title="未分组",寰宇新闻
+https://epg.pw/stream/5d107352c6e105b8de3715772b10ce78c786952e5a676a5ac5d07889dc4c5970.m3u8
+#EXTINF:-1 group-title="未分组",寰宇新闻
+http://tv.redrainl.site:9500/live.m3u8?c=22
+#EXTINF:-1 group-title="未分组",寰宇台灣新聞
+http://2022.stream-link.org/playlist/global_tw
+#EXTINF:-1 group-title="未分组",華視新聞
+http://2022.stream-link.org/playlist/cts_news
+#EXTINF:-1 group-title="未分组",華視
+http://2022.stream-link.org/playlist/cts_zy
+#EXTINF:-1 group-title="未分组",华语电视
+http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",华语电视
+http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",华语电视
+http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",华视新闻
+http://stream.dsichannel.com:80/hls/cts-news.m3u8
+#EXTINF:-1 group-title="未分组",华视新闻
+http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",华视新闻
+http://stream.dsichannel.com/hls/cts-news.m3u8
+#EXTINF:-1 group-title="未分组",华视
+http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",好消息2
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 group-title="未分组",好消息1
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1 group-title="未分组",好消息
+http://www.336699.live:1935/blockfour/litv-ftv16.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",好莱坞电影
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8?blog.ntnas.top
+#EXTINF:-1 group-title="未分组",國會頻道2
+http://61.58.60.230:9319/live/124.m3u8
+#EXTINF:-1 group-title="未分组",功夫台
+https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
+#EXTINF:-1 group-title="未分组",公視戲劇
+http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+#EXTINF:-1 group-title="未分组",番薯
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 group-title="未分组",番薯
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 group-title="未分组",法国时尚
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+#EXTINF:-1 group-title="未分组",法国时尚
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",東森新聞
+http://2022.stream-link.org/playlist/ebc_news
+#EXTINF:-1 group-title="未分组",東森購物2
+http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",東森購物
+http://www.336699.live:1935/blocksix/4gtv-live046.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",東森超視34.5
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 group-title="未分组",東森財經新聞
+http://2022.stream-link.org/playlist/ebc_finance
+#EXTINF:-1 group-title="未分组",東森財經新聞
+http://www.336699.live:1935/blocksix/4gtv-live019.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",東森yoyo
+http://2022.stream-link.org/playlist/ebc_yoyo
+#EXTINF:-1 group-title="未分组",东森洋片
+http://gxfrg007.8800.org:8282/tsfile/live/1050_1.m3u8
+#EXTINF:-1 group-title="未分组",东森亚洲新闻台
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+#EXTINF:-1 group-title="未分组",东森新闻台
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 group-title="未分组",东森新闻
+https://epg.pw/stream/70b102b7954d6b1120be28d9d818bc9a52dcc92cc0a45ce716885ab97fab61a3.m3u8
+#EXTINF:-1 group-title="未分组",东森新闻
+http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",东森电影
+http://gxfrg007.8800.org:8282/tsfile/live/1049_1.m3u8
+#EXTINF:-1 group-title="未分组",东森财经新闻台
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 group-title="未分组",东森LIVE
+http://158.101.151.82:9000/jmsytb.m3u8?c=2
+#EXTINF:-1 group-title="未分组",东森
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",东森
+http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+#EXTINF:-1 group-title="未分组",点掌财经
+http://cclive2.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 group-title="未分组",点掌财经
+http://cclive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 group-title="未分组",点掌财经
+http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
+#EXTINF:-1 group-title="未分组",大立电视台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="未分组",大愛2
+http://www.336699.live:1935/blocksix/4gtv-live106.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",大愛
+http://www.336699.live:1935/blocksix/4gtv-live007.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",大爱2
+https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="未分组",寵物當家
+http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",采昌影視
+http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",博斯運動I
+http://www.336699.live:1935/blockfour/litv-longturn07.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",博斯無限
+http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",博斯網球
+http://www.336699.live:1935/blockfour/litv-longturn09.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",博斯高球I
+http://www.336699.live:1935/blockfour/litv-longturn05.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",半島電視
+http://www.336699.live:1935/blockfour/litv-ftv10.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",八度空間
+http://2022.stream-link.org/playlist/8tv
+#EXTINF:-1 group-title="未分组",八大綜合
+http://www.336699.live:1935/blockfour/4gtv-4gtv039.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",八大精彩台
+http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/.m3u8
+#EXTINF:-1 group-title="未分组",八大精彩
+http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",澳亞衛視
+http://107.151.203.111:2209/135/hk.php?id=aoya
+#EXTINF:-1 group-title="未分组",澳亚卫视
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+#EXTINF:-1 group-title="未分组",澳亚卫视
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8?WithCaption
+#EXTINF:-1 group-title="未分组",澳視資訊
+http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 group-title="未分组",澳視衛視
+http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 group-title="未分组",澳視葡文
+http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1 group-title="未分组",澳視葡文
+http://61.244.22.4/ch2/ch2.live/index.m3u8
+#EXTINF:-1 group-title="未分组",澳視澳門
+http://61.244.22.4/ch1/ch1.live/index.m3u8
+#EXTINF:-1 group-title="未分组",澳视葡文
+http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
+#EXTINF:-1 group-title="未分组",澳视葡文
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1 group-title="未分组",澳門蓮花衛視
+http://nettvpro.live/hls/lotustv.php
+#EXTINF:-1 group-title="未分组",澳門蓮花衛視
+http://2022.stream-link.org/playlist/macau_lotustv
+#EXTINF:-1 group-title="未分组",澳門macau
+http://61.244.22.4/ch3/ch3.live/index.m3u8
+#EXTINF:-1 group-title="未分组",澳门综艺
+http://61.244.22.4/ch6/_definst_/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 group-title="未分组",澳门资讯
+http://61.244.22.4/ch5/info_ch5.live/chunklist_w1046558591.m3u8
+#EXTINF:-1 group-title="未分组",澳门莲花
+http://107.151.203.111:2209/135/hk.php?id=amlh
+#EXTINF:-1 group-title="未分组",澳门莲花
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 group-title="未分组",澳门莲花
+http://nettvpro.live/hls/lotustv.php?zgangd
+#EXTINF:-1 group-title="未分组",澳门Macau
+http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+#EXTINF:-1 group-title="未分组",澳门Macau
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 group-title="未分组",愛爾達體育3
+http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",愛爾達體育2
+http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",愛爾達體育1
+http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",VIUTV6
+http://radius.8866.org:800/hls/85/index.m3u8
+#EXTINF:-1 group-title="未分组",VIUTV6
+http://shazui.8866.org:800/hls/85/index.m3u8
+#EXTINF:-1 group-title="未分组",VIUTV
+http://shazui.8866.org:800/hls/86/index.m3u8
+#EXTINF:-1 group-title="未分组",UN Web TV (540p)
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 group-title="未分组",TVB星河频道
+http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
+#EXTINF:-1 group-title="未分组",TVB财经
+https://epg.pw/stream/22fbfa76cee14a69c9be831c3b1f6407a849d414423ed8566798713300eb5f51.m3u8
+#EXTINF:-1 group-title="未分组",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="未分组",TVBS新聞
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="未分组",TVBS新聞
+http://158.101.151.82:9000/jmsytb.m3u8?c=03
+#EXTINF:-1 group-title="未分组",TVBS新聞
+http://2022.stream-link.org/playlist/tvbs_news
+#EXTINF:-1 group-title="未分组",TVBS新闻台
+http://2023.stream-link.org/playlist/tvbs_news
+#EXTINF:-1 group-title="未分组",TVBS新闻HD
+http://158.101.151.82:9000/jmsytb.m3u8?c=3
+#EXTINF:-1 group-title="未分组",TVBS新闻
+http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",TVBS新闻
+https://epg.pw/stream/acc0a20a2153828ee21fd280ac45016da8f5106ad277d58e814ed0a6e9693193.m3u8
+#EXTINF:-1 group-title="未分组",TVBS新闻
+http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="未分组",TVBS新闻
+http://158.101.151.82:9000/jmsytb.m3u8?c=4
+#EXTINF:-1 group-title="未分组",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",TVBS精彩
+http://www.336699.live:1935/blocksix/4gtv-live086.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",TVBS歡樂
+http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",TVBS歡樂
+https://epg.pw/stream/a0e38cabd293735287ad24ea12d5e2e3d2f0ecd3a9984895501def1ccc98f1e6.m3u8
+#EXTINF:-1 group-title="未分组",TVBS欢乐
+http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/.m3u8
+#EXTINF:-1 group-title="未分组",TVBS42娱乐
+https://epg.pw/stream/f8c8d8e006116a3579250f27e1a3eaf637dae11a7797ac4d5be1f1e61cb0fbfb.m3u8
+#EXTINF:-1 group-title="未分组",TVBS HD
+http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",TVBS HD
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="未分组",TVBS HD
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 group-title="未分组",TVBS HD
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="未分组",TVBS
+http://158.101.151.82:9000/jmsytb.m3u8?c=04
+#EXTINF:-1 group-title="未分组",TVBS
+http://www.336699.live:1935/blocksix/4gtv-live072.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",TVBS
+http://2022.stream-link.org/playlist/tvbs
+#EXTINF:-1 group-title="未分组",TVBS
+https://epg.pw/stream/c69d1cc112b64d809dcd6b9359153d668abbca671102437a920d36072581f7c6.ctv
+#EXTINF:-1 group-title="未分组",TVBE Joinville
+https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
+#EXTINF:-1 group-title="未分组",TVB Pearl (珍珠台)
+https://live.astradamy.com/tvbpearl/index.m3u8
+#EXTINF:-1 group-title="未分组",TVB J2
+https://live.astradamy.com/tvbj2/index.m3u8
+#EXTINF:-1 group-title="未分组",TRACESPORT
+http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",Taiwan Indigenous TV (原住民電視) (720p)
+http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 group-title="未分组",STYLE
+http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",Sofy TV (720p)
+https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="未分组",ROLLOR
+http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",ROCK ACTION
+http://www.336699.live:1935/blocksix/4gtv-live138.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",RHK32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8?
+#EXTINF:-1 group-title="未分组",now新聞
+http://2022.stream-link.org/playlist/now_news
+#EXTINF:-1 group-title="未分组",now精選體育
+http://2022.stream-link.org/playlist/now_sports
+#EXTINF:-1 group-title="未分组",now財經
+http://2022.stream-link.org/playlist/now_finance
+#EXTINF:-1 group-title="未分组",NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 group-title="未分组",NDR Fernsehen International
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:-1 group-title="未分组",MTV
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+#EXTINF:-1 group-title="未分组",MTV
+http://www.336699.live:1935/blocksix/4gtv-live025.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",momo親子台
+http://www.336699.live:1935/blocksix/4gtv-live107.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",MEZZO
+http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",MCE
+http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",LUXE TV
+http://www.336699.live:1935/blocksix/4gtv-live121.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",LOVE NATURE
+http://www.336699.live:1935/blocksix/4gtv-live208.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",Love Nature
+http://2022.stream-link.org/playlist/love_nature
+#EXTINF:-1 group-title="未分组",LIVE互動英語
+http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",LIFETIME
+http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",J2
+http://radius.8866.org:800/hls/81/index.m3u8
+#EXTINF:-1 group-title="未分组",J2
+https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+#EXTINF:-1 group-title="未分组",J2
+http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
+#EXTINF:-1 group-title="未分组",i-Fun愛放
+http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",H歷史頻道
+http://www.336699.live:1935/blocksix/4gtv-live026.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",Hollywood
+http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/9236/index.m3u8
+#EXTINF:-1 group-title="未分组",HITS
+http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",HitFM中台湾广播
+http://iptv.cooltv.top/tv/hitfm_backup.php?id=2
+#EXTINF:-1 group-title="未分组",HitFM东台湾广播
+http://iptv.cooltv.top/tv/hitfm_backup.php?id=5
+#EXTINF:-1 group-title="未分组",HBO 強檔鉅獻
+http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8
+#EXTINF:-1 group-title="未分组",GOOD卡通
+http://live.streamingfast.net/osmflivech45.m3u8
+#EXTINF:-1 group-title="未分组",GoodTV 经典音乐
+https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
+#EXTINF:-1 group-title="未分组",GoodTV 爱旅行台
+https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
+#EXTINF:-1 group-title="未分组",GLOBAL
+http://www.336699.live:1935/blocksix/4gtv-live112.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",GinX
+http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",FOX新聞
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="未分组",FOX新闻台
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="未分组",FIGHT SPORTS (1080p)
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+#EXTINF:-1 group-title="未分组",ELTA娛樂
+http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",ELTA生活旅遊
+http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",ELEVEN体育2台
+http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+#EXTINF:-1 group-title="未分组",Dmax TR
+http://he11o.akadatel.com/iptv/NSZN5B863V6Z9K/6913/index.m3u8
+#EXTINF:-1 group-title="未分组",DMAX HD TR
+http://he11o.akadatel.com/iptv/NSZN5B863V6Z9K/2300/index.m3u8
+#EXTINF:-1 group-title="未分组",DMAX HD DE
+http://he11o.akadatel.com/iptv/NSZN5B863V6Z9K/15281/index.m3u8
+#EXTINF:-1 group-title="未分组",Dmax FHD TR
+http://he11o.akadatel.com/iptv/NSZN5B863V6Z9K/6912/index.m3u8
+#EXTINF:-1 group-title="未分组",DMAX
+http://he11o.akadatel.com/iptv/NSZN5B863V6Z9K/2290/index.m3u8
+#EXTINF:-1 group-title="未分组",Discoveryᴴᴰ
+http://185.59.223.102:8080/discovery/index.m3u8
+#EXTINF:-1 group-title="未分组",DaAi2 (大愛2) (720p)
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="未分组",DaAi1 (大愛1) (720p)
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="未分组",CTS News (華視新聞資訊) [Geo-blocked]
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 group-title="未分组",CNR香港之声
+http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+#EXTINF:-1 group-title="未分组",CNN
+http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",cnex
+http://www.336699.live:1935/blockfour/4gtv-4gtv013.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",CNA东森亚洲卫视
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+#EXTINF:-1 group-title="未分组",CNA International (1080p)
+https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/playlist.m3u8
+#EXTINF:-1 group-title="未分组",Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 group-title="未分组",CI犯罪現場
+http://www.336699.live:1935/blocksix/4gtv-live027.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",CINEMAWORLD
+http://www.336699.live:1935/blocksix/4gtv-live069.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",ChannelNewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="未分组",CGTN Documentary
+http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 group-title="未分组",CGTN
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 group-title="未分组",CATHY BEYOND
+http://www.336699.live:1935/blocksix/4gtv-live155.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",CATCHPLAY电影台
+http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",CATCHPLAY电影台
+http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/.m3u8
+#EXTINF:-1 group-title="未分组",Bread-Tv
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="未分组",BeritaSatu World (720p) [Not 24/7]
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+#EXTINF:-1 group-title="未分组",Beautiful Life TV
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 group-title="未分组",AXN
+http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/6162/index.m3u8
+#EXTINF:-1 group-title="未分组",ArirangKorea
+http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
+#EXTINF:-1 group-title="未分组",ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
